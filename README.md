@@ -31,7 +31,9 @@ The results will be stored in the `Inter_Connect_Networks` folder.
 
 ## References
 
-1. [Reinforcement Learning based Interconnection Routing for Adaptive Traffic Optimization][NOCS-19-ICN-url]. Note that we were inspired by this paper's implementation.
+1. [Reinforcement Learning based Interconnection Routing for Adaptive Traffic Optimization][NOCS-19-ICN-url]. <br>
+Note that we were inspired by this paper's implementation.<br>
+
 2. [Garnet2.0: An On-Chip Network Model for Heterogeneous SoCs][garnet2-url]
 
 
@@ -92,6 +94,6 @@ network_stats.txt
 <!-- MARK DOWN -->
 [paper-url]: https://
 [NOCS-19-ICN-url]: https://arxiv.org/pdf/1908.04484.pdf
-[garnet-url]: https://www.gem5.org/documentation/general_docs/ruby/garnet-2/
+[garnet2-url]: https://www.gem5.org/documentation/general_docs/ruby/garnet-2/
 
 
