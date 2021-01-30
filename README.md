@@ -29,10 +29,10 @@ From the terminal:
 The results will be stored in the `Inter_Connect_Networks` folder.
 
 
-## Appendix
+## References
 
-The paper implementation is inspired by this [paper][NOCS-19-ICN-url].<br>
-
+1. [Reinforcement Learning based Interconnection Routing for Adaptive Traffic Optimization][NOCS-19-ICN-url]. Note that we were inspired by this paper's implementation.
+2. [Garnet2.0: An On-Chip Network Model for Heterogeneous SoCs][garnet2-url]
 
 
 <!-- ## Appendix
@@ -92,5 +92,6 @@ network_stats.txt
 <!-- MARK DOWN -->
 [paper-url]: https://
 [NOCS-19-ICN-url]: https://arxiv.org/pdf/1908.04484.pdf
+[garnet-url]: https://www.gem5.org/documentation/general_docs/ruby/garnet-2/
 
 
