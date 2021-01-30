@@ -25,6 +25,9 @@ From the terminal:
 	python interconnect-routing-gym/example/rl_sarsa_example.py
 	```
 
+### Code
+The codes are located in the `example` folder.
+
 ### Outputs
 The results will be stored in the `Inter_Connect_Networks` folder.
 
