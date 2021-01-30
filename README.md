@@ -8,9 +8,9 @@ IEEE ISCAS, May 2021, Daegu, South Korea. <br>
 
 
 **Abstract**
-```"Python" 
-With the increase in cores in the multi-core architectures, the probability of congestion increases because of longer paths among sources and destinations in the network-on-chip (NoC) and because of running multiple applications in a chip. Reactive detection and/or single fixed routing algorithm are not effective to prevent congestion from happening for different traffic patterns in NoC. Therefore, we propose reinforcement learning based proactive routing technique that selects the best routing algorithm from multiple available routing algorithms using NoC utilization and congestion information to improve communication performance. Simulation results demonstrate latency performance improvement while providing robust NoC performance for different NoC states.
-```
+
+> With the increase in cores in the multi-core architectures, the probability of congestion increases because of longer paths among sources and destinations in the network-on-chip (NoC) and because of running multiple applications in a chip. Reactive detection and/or single fixed routing algorithm are not effective to prevent congestion from happening for different traffic patterns in NoC. Therefore, we propose reinforcement learning based proactive routing technique that selects the best routing algorithm from multiple available routing algorithms using NoC utilization and congestion information to improve communication performance. Simulation results demonstrate latency performance improvement while providing robust NoC performance for different NoC states.
+
 
 ### How it works
 From the terminal:
