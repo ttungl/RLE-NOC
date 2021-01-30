@@ -1,15 +1,16 @@
 ### Reinforcement Learning Enabled Routing for High-Performance Networks-on-Chip
 
 Md Farhadur Reza, Tung Thanh Le <br>
-
 IEEE ISCAS, May 2021, Daegu, South Korea. <br>
-
-(Equal Contribution) [To appear][paper-url] <br>
+(Equal Contribution) <br>
+[To appear][paper-url] <br>
 
 
 **Abstract**
 
 > With the increase in cores in the multi-core architectures, the probability of congestion increases because of longer paths among sources and destinations in the network-on-chip (NoC) and because of running multiple applications in a chip. Reactive detection and/or single fixed routing algorithm are not effective to prevent congestion from happening for different traffic patterns in NoC. Therefore, we propose reinforcement learning based proactive routing technique that selects the best routing algorithm from multiple available routing algorithms using NoC utilization and congestion information to improve communication performance. Simulation results demonstrate latency performance improvement while providing robust NoC performance for different NoC states.
+
+
 
 
 ### How it works
@@ -28,7 +29,9 @@ From the terminal:
 The results will be stored in the `Inter_Connect_Networks` folder.
 
 
+## Appendix
 
+The paper implementation is inspired by this [paper][NOCS-19-ICN-url].<br>
 
 
 
@@ -88,5 +91,6 @@ network_stats.txt
  -->
 <!-- MARK DOWN -->
 [paper-url]: https://
+[NOCS-19-ICN-url]: https://arxiv.org/pdf/1908.04484.pdf
 
 
