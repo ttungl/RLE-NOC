@@ -5,6 +5,7 @@ IEEE ISCAS, May 2021, Daegu, South Korea. <br>
 (Equal Contribution) <br>
 [To appear][paper-url] <br>
 
+> For citation, we encourage you to cite our work if you used our code or mentioned our paper work. Thank you!
 
 **Abstract**
 
