@@ -3,9 +3,13 @@
 Md Farhadur Reza, Tung Thanh Le <br>
 IEEE ISCAS, May 2021, Daegu, South Korea. <br>
 (Equal Contribution) <br>
-[To appear][paper-url] <br>
+[Publication][paper-url] <br>
 
 > For citation, we encourage you to cite our work if you used our code or mentioned our paper work. Thank you!
+
+```
+M. F. Reza and T. T. Le, "Reinforcement Learning Enabled Routing for High-Performance Networks-on-Chip," 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021, pp. 1-5, doi: 10.1109/ISCAS51556.2021.9401790.
+```
 
 **Abstract**
 
@@ -96,7 +100,7 @@ network_stats.txt
 ```
  -->
 <!-- MARK DOWN -->
-[paper-url]: https://
+[paper-url]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401790
 [NOCS-19-ICN-url]: https://arxiv.org/pdf/1908.04484.pdf
 [garnet2-url]: https://www.gem5.org/documentation/general_docs/ruby/garnet-2/
 
