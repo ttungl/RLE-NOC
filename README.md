@@ -7,9 +7,9 @@ IEEE ISCAS, May 2021, Daegu, South Korea. <br>
 
 > For citation, we encourage you to cite our work if you used our code or mentioned our paper work. Thank you!
 
-```
-M. F. Reza and T. T. Le, "Reinforcement Learning Enabled Routing for High-Performance Networks-on-Chip," 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021, pp. 1-5, doi: 10.1109/ISCAS51556.2021.9401790.
-```
+
+> M. F. Reza and T. T. Le, "Reinforcement Learning Enabled Routing for High-Performance Networks-on-Chip," 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021, pp. 1-5, doi: 10.1109/ISCAS51556.2021.9401790.
+
 
 **Abstract**
 
